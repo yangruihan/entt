@@ -162,6 +162,7 @@ endif()
 
 # Test container
 
+SETUP_BASIC_TEST(dense_bimap entt/container/dense_bimap.cpp)
 SETUP_BASIC_TEST(dense_map entt/container/dense_map.cpp)
 SETUP_BASIC_TEST(dense_set entt/container/dense_set.cpp)
 

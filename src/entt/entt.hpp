@@ -1,4 +1,5 @@
 #include "config/version.h"
+#include "container/dense_bimap.hpp"
 #include "container/dense_map.hpp"
 #include "container/dense_set.hpp"
 #include "core/algorithm.hpp"
